@@ -77,7 +77,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.245.0",
+    "@aws-sdk/client-s3": "^3.735.0",
     "@defillama/adapters": "file:./DefiLlama-Adapters",
     "@defillama/dimension-adapters": "file:./dimension-adapters",
     "@defillama/emissions-adapters": "file:./emissions-adapters",
